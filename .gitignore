@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+строить/
+приложение/сборка/
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Локальные файлы
+local.properties
+
+# Мак
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Другой
+*.hprof
+*.бревно
+захваты/
+.externalNativeBuild/
+# Project exclude paths
+/out/
